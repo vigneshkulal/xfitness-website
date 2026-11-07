@@ -1,0 +1,6 @@
+{
+  "name": "XFITNESS — Unisex Gym | Saibrakatte & Kokkarne",
+  "description": "Udupi's premier unisex gym with Branch 01 in Saibrakatte and Branch 02 in Kokkarne. Founded by Coach Abhishek Amin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
